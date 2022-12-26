@@ -5,3 +5,4 @@
 /.vs
 .vsconfig
 *.csproj
+.vscode/settings.json

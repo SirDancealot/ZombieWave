@@ -7,3 +7,4 @@
 *.csproj
 .vscode/settings.json
 *.sln
+*Assembly-CSharp.csproj*

@@ -6,3 +6,4 @@
 .vsconfig
 *.csproj
 .vscode/settings.json
+*.sln
